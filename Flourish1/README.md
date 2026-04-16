@@ -6,6 +6,8 @@ The data was sourced from the Seattle Open Data Portal and cleaned using Python 
 
 ![Visualization](chart.png)
 
+Link to published Flourish visualization: https://public.flourish.studio/visualisation/28545729/
+
 Source:
 Seattle Open Data Portal – Office of Police Accountability Complaints Dataset  
 https://data.seattle.gov/
