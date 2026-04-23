@@ -10,6 +10,7 @@ Overall, this visualization demonstrates that while the dataset can show general
 
 ![Visualization](2chart.jpg)
 
-Source:  
-Seattle Open Data Portal – Office of Police Accountability Complaints Dataset  
+Link to published Flourish visualization: https://public.flourish.studio/visualisation/28658396/
+
+Source:  Seattle Open Data Portal – Office of Police Accountability Complaints Dataset  
 https://data.seattle.gov/
