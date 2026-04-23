@@ -8,6 +8,7 @@ This raises questions about the reliability of the dataset over time. The sharp 
 
 Overall, this visualization demonstrates that while the dataset can show general patterns, it also has limitations that affect how accurately it represents long-term trends.
 
+![Visualization](chart2.jpg)
 
 Source:  
 Seattle Open Data Portal – Office of Police Accountability Complaints Dataset  
