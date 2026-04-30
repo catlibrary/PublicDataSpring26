@@ -5,7 +5,7 @@ colnames(crime)
 
 library(lubridate)
 
-# Make the Data
+# Make the data
 crime_by_year <- crime %>%
   # Rename crime_count
   rename(`Crime Count` = crime_count)
@@ -15,11 +15,11 @@ crime_by_year <- crime %>%
   ) %>%
   count(year, name = "crime_count")
 
-# Remove Incomplete Years
+# Remove incomplete years
 crime_by_year <- crime_by_year %>%
   filter(year >= 2008)
 
-# For FLourish
+# For Flourish
 write_csv(crime_by_year, "crime_by_year.csv")
 
 # Run to ensure it worked
