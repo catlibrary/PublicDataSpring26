@@ -1,6 +1,6 @@
 # Seattle Crime Data Analysis
 
-This project analyzes reported crime data in Seattle from 2008–Present using R and Flourish.
+This is my portion of our first group project which analyzes reported crime data in Seattle from 2008–Present using R and Flourish. The chart helps assess the accuracy and consistency of the dataset by showing a continuous and interpretable trend over time.
 
 ## Visualization
 ![Crime Line Chart](Line_Chart.jpg)
