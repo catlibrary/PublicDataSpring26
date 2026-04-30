@@ -3,7 +3,7 @@
 This project analyzes reported crime data in Seattle from 2008–Present using R and Flourish.
 
 ## Visualization
-- Line chart showing trends in reported crime over time
+- Line chart showing trends in reported crime from 2008-Present.
 
 ![Crime Line Chart](Line_Chart.jpg)
 
