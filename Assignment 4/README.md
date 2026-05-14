@@ -6,7 +6,7 @@ The visualization loads data from an external CSV file and uses D3 scales and ax
 
 ## Visualization
 
-![Reading Hours Chart](bar_chart.jpeg)
+![Reading Hours Chart](bar_chart.jpg)
 
 ## Data Source
 
