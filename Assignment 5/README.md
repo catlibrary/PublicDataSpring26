@@ -16,5 +16,5 @@ Self-created reading data for assignment purposes.
   https://stackoverflow.com/questions/45700973/adding-data-label-and-marker-to-the-line-chart-using-d3
 - Stack Overflow discussion on appending text to D3 lines:
   https://stackoverflow.com/questions/37723541/how-to-append-text-to-a-line-in-d3-js
-- Used the following source to further help with bottom and left axis code
+- Used the following source to further help with bottom and left axis code:
   https://d3js.org/d3-axis
