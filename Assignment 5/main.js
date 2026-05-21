@@ -66,13 +66,13 @@ d3.csv("reading2.csv").then(data => {
     // Bottom Axis
     svg.append("g")
         .attr("class", "axis")
-        .attr("transform", `translate(0, ${h - margin})`)
+        .attr("transform", "translate(0," + (h-margin) + ")") 
         .call(bottomAxis);
 
     // Left Axis
     svg.append("g")
         .attr("class", "axis")
-        .attr("transform", `translate(${margin},0)`)
+        .attr("transform", "translate(" + margin + ",0)")
         .call(leftAxis);
 
     // X Axis Label
