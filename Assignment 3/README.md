@@ -3,7 +3,7 @@
 This project is a public-facing review webpage for *Nettle & Bone* by T. Kingfisher created using HTML and CSS in VS Code.
 
 ## Visualization
-![Final webpage screenshot](final_screenshot.jpeg)
+![Final webpage screenshot](final_screenshot.jpg)
 
 ## Tools Used
 - HTML
