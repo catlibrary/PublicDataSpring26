@@ -17,3 +17,7 @@ The project includes:
 ## Data Source
 
 Self-created reading data for assignment purposes.
+
+## Resources
+- Stack Overflow discussion on D3 line labels and markers:
+  https://stackoverflow.com/questions/45700973/adding-data-label-and-marker-to-the-line-chart-using-d3
