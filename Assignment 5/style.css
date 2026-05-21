@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+svg {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+/* Pages line */
+.pages-line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 3;
+}
+
+/* Hours line */
+.hours-line {
+    fill: none;
+    stroke: brown;
+    stroke-width: 3;
+}
+
+/* Chart title */
+.chart-title {
+    font-size: 20px;
+    font-weight: bold;
+}
