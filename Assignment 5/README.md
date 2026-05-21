@@ -21,3 +21,5 @@ Self-created reading data for assignment purposes.
 ## Resources
 - Stack Overflow discussion on D3 line labels and markers:
   https://stackoverflow.com/questions/45700973/adding-data-label-and-marker-to-the-line-chart-using-d3
+- Stack Overflow discussion on appending text to D3 lines:
+  https://stackoverflow.com/questions/37723541/how-to-append-text-to-a-line-in-d3-js
