@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Reading Star Filter</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <h1>Reading Stars by Page Count</h1>
+
+    <p>
+        Each star represents a book. Use the slider to highlight books
+        with page counts below the selected value.
+    </p>
+
+    <div id="container">
+
+        <label for="mySlider">Maximum pages:</label>
+
+        <input id="mySlider"
+               type="range"
+               min="0"
+               max="600"
+               step="50"
+               value="0"
+               class="slider"
+               list="list">
+
+        <datalist id="list">
+            <option>0</option>
+            <option>100</option>
+            <option>200</option>
+            <option>300</option>
+            <option>400</option>
+            <option>500</option>
+            <option>600</option>
+        </datalist>
+
+        <span id="sliderValue">0 pages</span>
+
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="./main.js"></script>
+
+</body>
+
+</html>

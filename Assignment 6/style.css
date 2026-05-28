@@ -1,0 +1,100 @@
+/* style the axes */
+.axis path,
+.axis line {
+    stroke: midnightblue;
+}
+
+/* style the axis text */
+.axis text {
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    fill: midnightblue;
+}
+
+/* style the stars */
+.stars {
+    fill: mediumpurple;
+    stroke: midnightblue;
+    stroke-width: 1px;
+}
+
+/* style the tooltip */
+.tooltip {
+    position: absolute;
+    padding: 8px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    background: mediumvioletred;
+    color: white;
+    border-radius: 8px;
+}
+
+/* keep the slider and number labels the same width */
+#container {
+    width: 600px;
+}
+
+/* style your slider */
+.slider {
+    -webkit-appearance: none;
+    width: 600px;
+    height: 10px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+}
+
+/* style your slider thumb */
+.slider::-moz-range-thumb {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: mediumorchid;
+    cursor: pointer;
+}
+
+/* line up the datalist labels with the slider */
+datalist {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
+
+/* style the slider numbers */
+option {
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: midnightblue;
+}
+
+/* style the title */
+h1 {
+    font-family: sans-serif;
+    font-size: 28px;
+    color: midnightblue;
+}
+
+/* style the paragraph */
+p {
+    font-family: sans-serif;
+    max-width: 700px;
+    color: #333;
+}
+
+/* NEW: style the slider value text */
+#sliderValue {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: midnightblue;
+}
+
+/* add spacing around the page */
+body {
+    margin: 20px;
+}
