@@ -30,6 +30,7 @@ The tooltip displays additional information about each book when hovering over a
 ![Reading Stars Visualization](Reading_stars.jpg)
 
 ## Resources
-
+- https://d3js.org/d3-selection
+- https://d3js.org/d3-shape/symbol
 - D3.js documentation
 - Class examples and lecture code from the Interactivity module
