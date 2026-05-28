@@ -27,7 +27,7 @@ The tooltip displays additional information about each book when hovering over a
 
 ## Visualization
 
-![Reading Stars Visualization](Reading_stars.png)
+![Reading Stars Visualization](Reading_stars.jpg)
 
 ## Resources
 
