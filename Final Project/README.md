@@ -13,7 +13,7 @@ The project combines multiple interactive visualizations to tell a data-driven s
 Live Website:  
 [Insert GitHub Pages URL Here]
 
-![Project Website Screenshot](images/FinalWebsitePic.png)
+![Project Website Screenshot](images/Final_Website_Pic.png)
 
 ---
 
