@@ -66,7 +66,9 @@ This scatterplot section compares neighborhood-level housing indicators before, 
 
 #### Screenshot
 
-Scatterplot Screenshot
+![Scatterplot 1 Screenshot](Images/Scatterplot.1.png)
+![Scatterplot 2 Screenshot](Images/Scatterplot.2.png)
+![Scatterplot 3 Screenshot](Images/Scatterplot.3.png)
 
 ---
 
