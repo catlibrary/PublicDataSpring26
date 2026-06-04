@@ -56,7 +56,7 @@ Features include:
 
 #### Screenshot
 
-Choropleth Maps Screenshot
+![Choropleth Screenshot](Images/Choropleth_Maps.png)
 
 ---
 
