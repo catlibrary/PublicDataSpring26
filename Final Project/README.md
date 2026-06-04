@@ -13,7 +13,8 @@ The project combines multiple interactive visualizations to tell a data-driven s
 Live Website:  
 [Insert GitHub Pages URL Here]
 
-![Project Website Screenshot](Final Website Pic.png)
+![Project Website Screenshot](images/FinalWebsitePic.png)
+
 ---
 
 ## Team Members
@@ -38,7 +39,7 @@ This interactive line chart compares average apartment rent growth and median ho
 
 #### Screenshot
 
-Line Chart Screenshot
+![Linechart Screenshot](images/Linechart.png)
 
 ---
 
