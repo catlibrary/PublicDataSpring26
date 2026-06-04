@@ -39,7 +39,7 @@ This interactive line chart compares average apartment rent growth and median ho
 
 #### Screenshot
 
-![Linechart Screenshot](images/Linechart.png)
+![Linechart Screenshot](Images/LineChart.png)
 
 ---
 
